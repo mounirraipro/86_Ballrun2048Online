@@ -1,0 +1,318 @@
+{
+  "name": "Ball Run 2048",
+  "domain": "ballrun2048.online",
+  "slug": "ballrun2048",
+  "genre": "Arcade Puzzle",
+  "iframeUrl": "/game/index.html",
+  "seo": {
+    "title": "Ball Run 2048 Online - Free Browser Game, No Download",
+    "description": "Play Ball Run 2048 online for free. Enjoy a quick 2048 runner where every lane change can grow or stop your ball directly in your browser with no download or account required.",
+    "keywords": [
+      "Ball Run 2048",
+      "Ball Run 2048 online",
+      "Ball Run 2048 free",
+      "free online game",
+      "browser game"
+    ]
+  },
+  "homepage": {
+    "heroHeadline": "Play Ball Run 2048 online",
+    "heroSubtitle": "Free browser play built for quick sessions, simple controls, and no app install.",
+    "lede": "Ball Run 2048 is a quick 2048 runner where every lane change can grow or stop your ball. Open the play page, let the local wrapper load, and start a round in your browser.",
+    "stats": [
+      {
+        "value": "Free",
+        "label": "Browser Play"
+      },
+      {
+        "value": "0",
+        "label": "Downloads"
+      },
+      {
+        "value": "1",
+        "label": "Playable Route"
+      },
+      {
+        "value": "Quick",
+        "label": "Sessions"
+      }
+    ],
+    "about": {
+      "kicker": "Arcade Puzzle",
+      "headline": "A practical way to play Ball Run 2048 in the browser.",
+      "paragraph1": "Ball Run 2048 focuses on number-merging runner play where lane choices and timing decide how large the ball becomes. The rules are easy to understand, but clean rounds still reward observation and a little planning.",
+      "paragraph2": "The page keeps the game experience direct: no install prompt, no account gate, and no claim that this site is the official mobile app publisher."
+    },
+    "howToPlay": {
+      "headline": "How to play Ball Run 2048",
+      "subheading": "Start with the goal on screen, then improve one decision at a time."
+    },
+    "steps": [
+      {
+        "icon": "folder",
+        "title": "Open the Game",
+        "desc": "Go to the Play page and let the local game wrapper load in your browser."
+      },
+      {
+        "icon": "eye",
+        "title": "Read the Goal",
+        "desc": "Check the objective, score target, or movement path before making the first move."
+      },
+      {
+        "icon": "hand",
+        "title": "Use Simple Controls",
+        "desc": "Play with mouse, trackpad, or touch depending on your device."
+      },
+      {
+        "icon": "target",
+        "title": "Play With Intent",
+        "desc": "Drag left or right, collect matching numbers, avoid rails that are too large for your current ball, and try to reach the strongest finish possible."
+      },
+      {
+        "icon": "refresh",
+        "title": "Replay and Improve",
+        "desc": "Short sessions make it easy to retry, notice patterns, and play cleaner next time."
+      }
+    ],
+    "categories": [
+      {
+        "name": "First Run",
+        "icon": "star",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Merge Paths",
+        "icon": "target",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Bridge Checks",
+        "icon": "zap",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Number Goals",
+        "icon": "trophy",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Clean Finish",
+        "icon": "crown",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
+    ],
+    "features": [
+      {
+        "icon": "bolt",
+        "title": "Instant Browser Play",
+        "desc": "Open the Play page and start without installing an app or creating an account."
+      },
+      {
+        "icon": "target",
+        "title": "Clear Round Goals",
+        "desc": "Each session gives you a visible goal so you can focus on smart moves instead of guesswork."
+      },
+      {
+        "icon": "device",
+        "title": "Mouse and Touch Friendly",
+        "desc": "The embedded HTML5 game is suitable for modern desktop, tablet, and mobile browsers."
+      },
+      {
+        "icon": "puzzle",
+        "title": "Pattern-Based Decisions",
+        "desc": "Better results come from reading the board or path before committing to a move."
+      },
+      {
+        "icon": "shield",
+        "title": "No Account Gate",
+        "desc": "The site does not ask for personal details before loading the browser game."
+      },
+      {
+        "icon": "refresh",
+        "title": "Good for Short Sessions",
+        "desc": "Rounds are easy to restart, making the game useful for quick breaks and practice runs."
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is Ball Run 2048?",
+        "a": "Ball Run 2048 is a free browser game page focused on number-merging runner play where lane choices and timing decide how large the ball becomes."
+      },
+      {
+        "q": "Is Ball Run 2048 free to play?",
+        "a": "Yes. The game page is free to open in a modern browser."
+      },
+      {
+        "q": "Do I need to download anything?",
+        "a": "No. The playable route loads through /game/index.html in the browser."
+      },
+      {
+        "q": "Does it work on mobile?",
+        "a": "The embedded HTML5 game supports touch-friendly play on many modern mobile browsers."
+      },
+      {
+        "q": "Is this the official app site?",
+        "a": "No. This is an independent browser game page and does not claim ownership of the external game."
+      },
+      {
+        "q": "How should I get better?",
+        "a": "Move early instead of swiping at the last second. Staying centered gives you more time to choose matching balls and avoid barriers that can break the run."
+      }
+    ],
+    "cta": {
+      "headline": "Play Ball Run 2048 now",
+      "subtext": "Open the Play page, wait for the wrapper to load, and start a browser session."
+    }
+  },
+  "playPage": {
+    "howItWorksSubtitle": "Three simple steps to start playing",
+    "steps": [
+      {
+        "title": "Open Ball Run 2048",
+        "desc": "Visit the Play page and let the local iframe wrapper load the game."
+      },
+      {
+        "title": "Read the First Prompt",
+        "desc": "Check the on-screen objective and controls before rushing into the first move."
+      },
+      {
+        "title": "Play and Adjust",
+        "desc": "Use each retry to spot better paths, cleaner matches, or safer timing."
+      }
+    ]
+  },
+  "faqPage": {
+    "items": [
+      {
+        "q": "What is Ball Run 2048?",
+        "a": "Ball Run 2048 is a free browser game page focused on number-merging runner play where lane choices and timing decide how large the ball becomes."
+      },
+      {
+        "q": "Is Ball Run 2048 free to play?",
+        "a": "Yes. The game page is free to open in a modern browser."
+      },
+      {
+        "q": "Do I need to download anything?",
+        "a": "No. The playable route loads through /game/index.html in the browser."
+      },
+      {
+        "q": "Does it work on mobile?",
+        "a": "The embedded HTML5 game supports touch-friendly play on many modern mobile browsers."
+      },
+      {
+        "q": "Is this the official app site?",
+        "a": "No. This is an independent browser game page and does not claim ownership of the external game."
+      },
+      {
+        "q": "How should I get better?",
+        "a": "Move early instead of swiping at the last second. Staying centered gives you more time to choose matching balls and avoid barriers that can break the run."
+      },
+      {
+        "q": "Can I play offline?",
+        "a": "No. The external game source needs an internet connection to load."
+      },
+      {
+        "q": "Is progress saved?",
+        "a": "Any save behavior depends on the embedded game and the browser. This site does not require a login."
+      }
+    ]
+  },
+  "howToPlayPage": {
+    "intro": "Ball Run 2048 is a quick 2048 runner where every lane change can grow or stop your ball. The best approach is to slow down at the start of each round, read the goal, and make moves that set up the next decision.",
+    "steps": [
+      {
+        "title": "Open the Game",
+        "desc": "Use the Play page. The local route stays /game/index.html while the external embed is kept separately in the site data."
+      },
+      {
+        "title": "Understand the Goal",
+        "desc": "Look for the level target, path, score requirement, or obstacle before acting."
+      },
+      {
+        "title": "Make a Controlled Move",
+        "desc": "Drag left or right, collect matching numbers, avoid rails that are too large for your current ball, and try to reach the strongest finish possible."
+      }
+    ],
+    "mechanic": {
+      "title": "Core Mechanic",
+      "desc": "Ball Run 2048 rewards pattern recognition, calm timing, and simple moves that create stronger follow-up options."
+    },
+    "difficultyProgression": "Early attempts teach the controls. Later rounds become easier when you plan one move ahead and avoid unnecessary risks.",
+    "tips": [
+      {
+        "title": "Read before moving",
+        "desc": "A few seconds of scanning often prevents the mistake that ends a good round."
+      },
+      {
+        "title": "Create space",
+        "desc": "Choose moves that open the board or path instead of only taking the closest option."
+      },
+      {
+        "title": "Use retries well",
+        "desc": "After a failed attempt, remember the obstacle or pattern that caused it."
+      },
+      {
+        "title": "Stay consistent",
+        "desc": "Short, focused sessions usually build better control than long rushed sessions."
+      },
+      {
+        "title": "Keep the goal visible",
+        "desc": "The best move is the one that moves you closer to the current objective."
+      }
+    ]
+  },
+  "blog": {
+    "headline": "Guides and Strategy",
+    "subheading": "Practical tips for cleaner Ball Run 2048 sessions.",
+    "introParagraph": "Read simple, useful advice for playing Ball Run 2048 with better timing, planning, and fewer wasted moves.",
+    "posts": [
+      {
+        "slug": "getting-started",
+        "title": "Getting Started with Ball Run 2048",
+        "excerpt": "Learn the basic flow of Ball Run 2048, from loading the browser game to reading the first objective.",
+        "date": "2026-05-13",
+        "readTime": "4 min read"
+      },
+      {
+        "slug": "common-mistakes",
+        "title": "Common Ball Run 2048 Mistakes to Avoid",
+        "excerpt": "Small rushed decisions can make a round harder than it needs to be. These habits are easy to fix.",
+        "date": "2026-05-13",
+        "readTime": "5 min read"
+      },
+      {
+        "slug": "better-patterns",
+        "title": "How to Spot Better Patterns",
+        "excerpt": "Train your eye to find moves that create follow-up options instead of one-off gains.",
+        "date": "2026-05-13",
+        "readTime": "5 min read"
+      },
+      {
+        "slug": "short-session-tips",
+        "title": "Tips for Short Browser Sessions",
+        "excerpt": "Make quick play sessions more useful with a simple warm-up and a clear goal.",
+        "date": "2026-05-13",
+        "readTime": "3 min read"
+      },
+      {
+        "slug": "browser-play-guide",
+        "title": "Browser Play and Device Tips",
+        "excerpt": "A quick guide to playing smoothly with mouse, trackpad, or touch controls.",
+        "date": "2026-05-13",
+        "readTime": "4 min read"
+      }
+    ]
+  },
+  "embedUrl": "https://html5.gamemonetize.co/yso6yuyo4enm6vdxz6rdjmyvxrjxo75m/",
+  "embedSource": "GameMonetize - BallRun2048"
+}
